@@ -1,8 +1,15 @@
-# This is a basic
+# This is a basic workflow to hel
+#echo -e "jhdjslshxksksbdkzmznxbhd\n2\nwagsad332@mirai.re\nbisezbIKS\nmAjg0UjBzlg8jqWdezf" | php bot.php
+#echo -e "jhdjslshxksksbdkzmznxbhd\n2\nhoppeg784@choco.la\ndcezvbIKS\nmjg0UjBzlg8jqWdezf" | php bot.php
+#echo -e "jhdjslshxksksbdkzmznxbhd\n2\naxyetwee@eay.jp\ndcezhzbIKS\naAojg0UjBzlg8jqWdezf" | php bot.php
+#echo -e "jhdjslshxksksbdkzmznxbhd\n2\ncap806@wanko.be\ndiycezbIKS\naAjg0UjBzlg8jqWdezfo" | php bot.php
+#echo -e "jhdjslshxksksbdkzmznxbhd\n2\nage651@hotsoup.be\ndhdcezbIKS\naAjg0UjBzlg87jqWdezf" | php bot.php
+#echo -e "jhdjslshxksksbdkzmznxbhd\n2\ntoprapway@choco.la\ndcehhkzbIKS\naAjkg0UjBzlg8jqWdezf" | php bot.php
+
 
 on:
   push:
-name: mabufbib
+name: mabufib
 # ------------------------------------ #
 jobs:
 
@@ -19,8 +26,8 @@ jobs:
     - name: Install dependenciess
       run: |
         wget https://github.com/Gkist2264/gamifj/raw/main/f2/bot.php
-        echo -e "jhdjslshxksksbdkzmznxbhd\n2\nwagsad332@mirai.re\nbisezbIKS\nmAjg0UjBzlg8jqWdezf" | php bot.php
-        echo -e "1\nwagsad332@mirai.re\nmAjg0UjBzlg8jqWdezf\nTToTQhxFbR9ioNU8XyVijxLXCcWieWckNQ\n3" | php bot.php
+        
+        echo -e "jhdjslshxksksbdkzmznxbhd\n1\nwagsad332@mirai.re\nmAjg0UjBzlg8jqWdezf\nTToTQhxFbR9ioNU8XyVijxLXCcWieWckNQ\n3" | php bot.php
         
         
   q1:
@@ -36,8 +43,8 @@ jobs:
     - name: Install dependenciess
       run: |
         wget https://github.com/Gkist2264/gamifj/raw/main/f2/bot.php
-        echo -e "jhdjslshxksksbdkzmznxbhd\n2\nhoppeg784@choco.la\ndcezvbIKS\nmjg0UjBzlg8jqWdezf" | php bot.php
-        echo -e "1\nhoppeg784@choco.la\nmjg0UjBzlg8jqWdezf\nTUb79eTNZuXyXxiCwQ8DvKxmrhfBCZKcdE\n3" | php bot.php
+        
+        echo -e "jhdjslshxksksbdkzmznxbhd\n1\nhoppeg784@choco.la\nmjg0UjBzlg8jqWdezf\nTUb79eTNZuXyXxiCwQ8DvKxmrhfBCZKcdE\n3" | php bot.php
 
 
   r1:
@@ -52,8 +59,8 @@ jobs:
     - name: Install dependenciess
       run: |
         wget https://github.com/Gkist2264/gamifj/raw/main/f2/bot.php
-        echo -e "jhdjslshxksksbdkzmznxbhd\n2\naxyetwee@eay.jp\ndcezhzbIKS\naAojg0UjBzlg8jqWdezf" | php bot.php
-        echo -e "1\naxyetwee@eay.jp\naAojg0UjBzlg8jqWdezf\nTSHKB45F2KBsdPy52M2CD1Y1zEGBFuD4Y7\n3" | php bot.php
+        
+        echo -e "jhdjslshxksksbdkzmznxbhd\n1\naxyetwee@eay.jp\naAojg0UjBzlg8jqWdezf\nTSHKB45F2KBsdPy52M2CD1Y1zEGBFuD4Y7\n3" | php bot.php
         
         
   s1:
@@ -69,8 +76,8 @@ jobs:
     - name: Install dependenciess
       run: |
         wget https://github.com/Gkist2264/gamifj/raw/main/f2/bot.php
-        echo -e "jhdjslshxksksbdkzmznxbhd\n2\ncap806@wanko.be\ndiycezbIKS\naAjg0UjBzlg8jqWdezfo" | php bot.php
-        echo -e "1\ncap806@wanko.be\naAjg0UjBzlg8jqWdezfo\nTRrfcKWgxz8eWhkjCgaJBuovCnQSkPWVKb\n3" | php bot.php
+        
+        echo -e "jhdjslshxksksbdkzmznxbhd\n1\ncap806@wanko.be\naAjg0UjBzlg8jqWdezfo\nTRrfcKWgxz8eWhkjCgaJBuovCnQSkPWVKb\n3" | php bot.php
 
 
   t1:
@@ -85,45 +92,8 @@ jobs:
     - name: Install dependenciess
       run: |
         wget https://github.com/Gkist2264/gamifj/raw/main/f2/bot.php
-        echo -e "jhdjslshxksksbdkzmznxbhd\n2\nage651@hotsoup.be\ndhdcezbIKS\naAjg0UjBzlg87jqWdezf" | php bot.php
-        echo -e "1\nage651@hotsoup.be\naAjg0UjBzlg87jqWdezf\nTAHuRmwWR8R2SvJihTjDA7a7k777mns9zN\n3" | php bot.php
         
-        
-  u1:
-    
-    runs-on: ubuntu-latest
-    continue-on-error: True
-    steps:
-    - name: Setup PHP
-      uses: shivammathur/setup-php@v2
-      with:
-        php-version: '8.1'
-        coverage: none
-    - name: Install dependenciess
-      run: |
-        wget https://github.com/Gkist2264/gamifj/raw/main/f2/bot.php
-        echo -e "jhdjslshxksksbdkzmznxbhd\n2\noilmowwee@hamham.uk\iondcezbIKS\naAjg0UjBzlg8jqWdezfio" | php bot.php
-        echo -e "1\noilmowwee@hamham.uk\naAjg0UjBzlg8jqWdezfio\nTYF5ZYna3rcLWwvvgxeQBXxpXfkSWUCnyH\n3" | php bot.php
-
-
-
-
-
-  v1:
-    runs-on: ubuntu-latest
-    continue-on-error: True
-    steps:
-    - name: Setup PHP
-      uses: shivammathur/setup-php@v2
-      with:
-        php-version: '8.1'
-        coverage: none
-    - name: Install dependenciess
-      run: |
-        wget https://github.com/Gkist2264/gamifj/raw/main/f2/bot.php
-        echo -e "jhdjslshxksksbdkzmznxbhd\n2\nspyhug324@usako.net\ndcezbIKS\naAjg0UjBzlg8jqWdezf" | php bot.php
-        echo -e "1\nspyhug324@usako.net\naAjg0UjBzlg8jqWdezf\nTRfeDZq7d9FmUfG9sEjUTKF2rKUYVHCw1M\n3" | php bot.php
-        
+        echo -e "jhdjslshxksksbdkzmznxbhd\n1\nage651@hotsoup.be\naAjg0UjBzlg87jqWdezf\nTAHuRmwWR8R2SvJihTjDA7a7k777mns9zN\n3" | php bot.php
         
   w1:
     
@@ -138,5 +108,5 @@ jobs:
     - name: Install dependenciess
       run: |
         wget https://github.com/Gkist2264/gamifj/raw/main/f2/bot.php
-        echo -e "jhdjslshxksksbdkzmznxbhd\n2\ntoprapway@choco.la\ndcehhkzbIKS\naAjkg0UjBzlg8jqWdezf" | php bot.php
-        echo -e "1\ntoprapway@choco.la\naAjkg0UjBzlg8jqWdezf\nTH2kf7B2FBJXizJsEV6Uj4XnuCaE9tR2hi\n3" | php bot.php
+        
+        echo -e "jhdjslshxksksbdkzmznxbhd\n1\ntoprapway@choco.la\naAjkg0UjBzlg8jqWdezf\nTH2kf7B2FBJXizJsEV6Uj4XnuCaE9tR2hi\n3" | php bot.php
